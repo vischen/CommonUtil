@@ -1,0 +1,22 @@
+{
+  "name": "CommonUtil",
+  "version": "0.1.0",
+  "summary": "A short description of CommonUtil.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vismy/CommonUtil",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vismy": "vischen@mcttechnology.com"
+  },
+  "source": {
+    "git": "https://github.com/vismy/CommonUtil.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CommonUtil/Classes/**/*"
+}
